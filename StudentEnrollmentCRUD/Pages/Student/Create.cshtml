@@ -1,0 +1,68 @@
+﻿@page
+@model StudentEnrollmentCRUD.Pages.Student.CreateModel
+@{
+    ViewData["Title"] = "Add Student";
+}
+  <h1 class="text-primary">New Student</h1>
+    @if (Model.errorMessage.Length > 0)
+    {
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong>@Model.errorMessage</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    <form method="post" class="container">
+        <div class="row mb-2">
+            <label class="col-form-label">Fullname</label>
+            <input type="text" class="form-control" name="fullname" value="@Model.studentInfo.fullname" placeholder="Input Fullname" />
+        </div>
+        <div class="row mb-2">
+            <label class="col-form-label">Email</label>
+            <input type="text" class="form-control" name="email" value="@Model.studentInfo.email" placeholder="Input Email" />
+        </div>
+        <div class="row mb-2">
+            <label class="col-form-label">Mobile Number</label>
+            <input type="text" class="form-control" name="mobile_no" value="@Model.studentInfo.mobile_no" placeholder="Input Mobile Number" />
+        </div>
+        <div class="row mb-2">
+            <label class="col-form-label">Address</label>
+            <input type="text" class="form-control" name="address" value="@Model.studentInfo.address" placeholder="Input Address" />
+        </div>
+        <div class="row mb-2">
+            <label class="col-form-label">Gender</label>
+            <div>
+                <input type="radio" id="male" name="gender" value="Male">
+                <label for="male">Male</label>
+            </div>
+            <div>
+                <input type="radio" id="female" name="gender" value="Female" )>
+                <label for="female">Female</label>
+            </div>
+        </div>
+        <div class="row mb-2">
+            <label class="col-form-label">Course</label>
+            <select class="form-select" name="course">
+                <option value="">Select a course</option>
+                <option value="Computer Science">Computer Science</option>
+                <option value="Information Technology">Information Technology</option>
+                <option value="Computer Engineering">Computer Engineering</option>
+            </select>
+        </div>
+        <div class="row mb-2">
+            <label class="col-form-label">Subjects</label>
+            <input type="text" class="form-control" name="subjects" value="@Model.studentInfo.subjects" placeholder="Input Subjects (comma-separated)" />
+        </div>
+        @if (Model.successMessage.Length > 0)
+        {
+            <div class="row mb-2">
+                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                    <strong>@Model.successMessage</strong>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            </div>
+        }
+        <div class="row mb-2 gap-3">
+            <button type="submit" class="col btn btn-primary">Submit</button>
+            <a href="/Student/Index" class="col btn btn-outline-primary" role="button">Cancel</a>
+        </div>
+    </form>
