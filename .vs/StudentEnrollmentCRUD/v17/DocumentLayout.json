@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\StudentEnrollmentCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5A6E766-1036-4FD4-892F-A182D676DC0B}|StudentEnrollmentCRUD\\StudentEnrollmentCRUD.csproj|c:\\users\\administrator\\source\\repos\\studentenrollmentcrud\\studentenrollmentcrud\\pages\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5A6E766-1036-4FD4-892F-A182D676DC0B}|StudentEnrollmentCRUD\\StudentEnrollmentCRUD.csproj|solutionrelative:studentenrollmentcrud\\pages\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5A6E766-1036-4FD4-892F-A182D676DC0B}|StudentEnrollmentCRUD\\StudentEnrollmentCRUD.csproj|c:\\users\\administrator\\source\\repos\\studentenrollmentcrud\\studentenrollmentcrud\\pages\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B5A6E766-1036-4FD4-892F-A182D676DC0B}|StudentEnrollmentCRUD\\StudentEnrollmentCRUD.csproj|solutionrelative:studentenrollmentcrud\\pages\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A6E766-1036-4FD4-892F-A182D676DC0B}|StudentEnrollmentCRUD\\StudentEnrollmentCRUD.csproj|c:\\users\\administrator\\source\\repos\\studentenrollmentcrud\\studentenrollmentcrud\\pages\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5A6E766-1036-4FD4-892F-A182D676DC0B}|StudentEnrollmentCRUD\\StudentEnrollmentCRUD.csproj|solutionrelative:studentenrollmentcrud\\pages\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5A6E766-1036-4FD4-892F-A182D676DC0B}|StudentEnrollmentCRUD\\StudentEnrollmentCRUD.csproj|c:\\users\\administrator\\source\\repos\\studentenrollmentcrud\\studentenrollmentcrud\\pages\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,30 +70,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\StudentEnrollmentCRUD\\StudentEnrollmentCRUD\\Pages\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "StudentEnrollmentCRUD\\Pages\\Student\\Create.cshtml",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\StudentEnrollmentCRUD\\StudentEnrollmentCRUD\\Pages\\Student\\Create.cshtml",
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Student\\Create.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-22T01:32:55.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\StudentEnrollmentCRUD\\StudentEnrollmentCRUD\\Pages\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "StudentEnrollmentCRUD\\Pages\\Student\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\StudentEnrollmentCRUD\\StudentEnrollmentCRUD\\Pages\\Student\\Edit.cshtml",
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Student\\Edit.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-31T05:12:45.228Z",
               "EditorCaption": ""
@@ -108,8 +108,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Student\\Index.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAAMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T07:36:17.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T07:36:17.78Z"
             },
             {
               "$type": "Document",
@@ -121,8 +120,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Student\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T03:09:29.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T03:09:29.023Z"
             },
             {
               "$type": "Document",
@@ -134,8 +132,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Student\\Edit.cshtml.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwDMAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:14:21.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T05:14:21.923Z"
             },
             {
               "$type": "Document",
@@ -147,8 +144,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T01:08:47.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T01:08:47.026Z"
             },
             {
               "$type": "Document",
@@ -160,8 +156,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T00:43:14.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T00:43:14.342Z"
             },
             {
               "$type": "Document",
@@ -173,8 +168,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Student\\Create.cshtml.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAowBcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T01:52:51.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T01:52:51.197Z"
             },
             {
               "$type": "Document",
@@ -186,8 +180,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Student\\Index.cshtml.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAgwBkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T01:19:39.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T01:19:39.491Z"
             },
             {
               "$type": "Document",
@@ -199,8 +192,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T03:03:49.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T03:03:49.212Z"
             },
             {
               "$type": "Document",
@@ -212,8 +204,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Shared\\_Layout.cshtml.css",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-30T00:50:30.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T00:50:30.667Z"
             },
             {
               "$type": "Document",
@@ -225,8 +216,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T01:03:51.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T01:03:51.318Z"
             },
             {
               "$type": "Document",
@@ -238,8 +228,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T00:44:27.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T00:44:27.625Z"
             },
             {
               "$type": "Document",
@@ -251,8 +240,7 @@
               "RelativeToolTip": "StudentEnrollmentCRUD\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T00:43:09.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T00:43:09.15Z"
             },
             {
               "$type": "Document",

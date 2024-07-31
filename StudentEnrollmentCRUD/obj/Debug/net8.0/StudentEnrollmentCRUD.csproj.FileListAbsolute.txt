@@ -36,3 +36,4 @@ C:\Users\Administrator\source\repos\StudentEnrollmentCRUD\StudentEnrollmentCRUD\
 C:\Users\Administrator\source\repos\StudentEnrollmentCRUD\StudentEnrollmentCRUD\obj\Debug\net8.0\StudentEnrollmentCRUD.pdb
 C:\Users\Administrator\source\repos\StudentEnrollmentCRUD\StudentEnrollmentCRUD\obj\Debug\net8.0\StudentEnrollmentCRUD.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\StudentEnrollmentCRUD\StudentEnrollmentCRUD\obj\Debug\net8.0\ref\StudentEnrollmentCRUD.dll
+C:\Users\Administrator\source\repos\StudentEnrollmentCRUD\StudentEnrollmentCRUD\obj\Debug\net8.0\StudentEnrollmentCRUD.sourcelink.json
